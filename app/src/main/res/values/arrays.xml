@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="theme_options">
+        <item>Light theme</item>
+        <item>Dark theme</item>
+        <item>System default</item>
+    </string-array>
+
+
+    <string-array name="contact_name_format_options">
+        <item>Use phone number as name</item>
+        <item>Use realistic names</item>
+        <item>Use random names</item>
+    </string-array>
+</resources>
